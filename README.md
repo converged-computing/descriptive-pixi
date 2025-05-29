@@ -52,7 +52,6 @@ pixi install
 pixi run install-pytorch-rocm62
 ```
 
-
 ## License
 
 HPCIC DevTools is distributed under the terms of the MIT license.
